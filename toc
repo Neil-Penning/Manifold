@@ -1,0 +1,47 @@
+Introduction
+
+A Manifold
+    The Axioms
+        Locally Euclidean
+        Hausdorff
+        Second Countable
+    Justifying the Axioms
+        Locally Euclidean
+            The 8 is not a manifold
+        Hausdorff
+            The Bug Eye Line
+        Second Countable
+            Connected must imply Path Connected.
+            The Long Line
+            Partition of Unity
+Some Connected Manifolds
+    R^n
+    C^n
+    Sphere
+    Interval
+    Disk
+    Simplex
+
+One Manifolds / An Introduction
+    We can do Calculus
+    What is Calculus
+    Some RR-like objects
+    Whoops! (-pi/2, pi/2 ) and RR are the same
+
+    A bijection that is not a homeomorphism
+
+    (Sequential) Compactness
+
+    Circle
+    Line / Open Interval
+    Half Line
+    Closed Interval
+Constructing Manifolds
+    Simplexes
+Two Manifolds
+    Constructing two manifolds
+    Orientability
+    Closed Manifolds (Without Boundary)
+Three Manifolds
+
+Three Manifolds

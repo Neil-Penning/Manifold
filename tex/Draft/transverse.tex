@@ -1,0 +1,29 @@
+\section{Transverse}
+
+\begin{boxDefinition}{Transverse}
+Let \( A \) and \( B \) be submanifolds of \( M^n \).
+
+Let \( p \in A \) and \( p \in B \).
+We say that \( A \) and \( B \) intersect transversely at \( p \)
+
+Note that \( T_pA \) and \( T_pB \) are subspaces of \( T_pM \).
+Let \( \mathcal A \) and \( \mathcal B \) be bases of \( T_pA \) and \(T_pB \) respectively,
+    we call say that \( A \) and \( B \) intersect transversely if \( \mathcal A \cup \mathcal B \) is a basis for \( T_pM \).
+\end{boxDefinition}
+\begin{boxExample}{Not Transverse}
+The two submanifolds
+\begin{align*} 
+    S_1^1 &:= \{ (x,y) : (x-2)^2 + y^2 = 2^2 \}
+    \\
+    S_2^1 &:= \{ (x,y) : (x+2)^2 + y^2 = 2^2 \}
+\end{align*}
+of \( \RR^2 \) intersect at \( (0, 0) \) non-transversely because 
+\begin{align*} 
+    T_{(0,0)}S_1^1 = \span \left\{ \vtwo 0{-1} \right\}
+    T_{(0,0)}S_2^1 = \span \left\{ \vtwo 0{-1} \right\}
+\end{align*}
+Which are the same dimension 1 subspace of \( T_{(0,0)}\RR^2 \).
+\end{boxExample}
+\begin{boxExample}{Transverse}
+Consider the \( xy \) plane and the \( z \) axis as submanifolds of \( \RR^3 \).
+\end{boxExample}
